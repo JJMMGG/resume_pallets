@@ -52,6 +52,6 @@ Salida en consola al correr el proyecto.
 ![run_console](assets/img/console.png)
 
 
-Creditos en el código
+Créditos en el código
 
 ![credits](assets/img/credits.png)
